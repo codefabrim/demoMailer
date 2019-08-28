@@ -5,3 +5,8 @@ source of inspiration hier :
  git clone https://github.com/mkyong/spring-boot.git
  
  
+ 
+ server smtp tester
+ 
+ https://mailtrap.io/inboxes/682847/messages/1377752997
+ 
